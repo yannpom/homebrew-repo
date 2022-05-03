@@ -1,6 +1,6 @@
 cask "grid" do
-  version "0.1"
-  sha256 "c44963fb4fede6de3392fa9d7c8dc3fcf281578d5ea18005886162b185e084e1"
+  version "0.2"
+  sha256 "d3b85049a06134b2712668f5fbfbdce13bc4ed907a5bda6e127dc952193e1196"
 
   url "https://github.com/yannpom/Grid/releases/download/v#{version}/Grid.app.zip"
   name "Grid"
